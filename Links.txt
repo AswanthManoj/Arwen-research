@@ -1,0 +1,2 @@
+https://pypi.org/project/simpleth/
+https://simpleth.readthedocs.io/en/latest/intro.html
